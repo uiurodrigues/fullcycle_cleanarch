@@ -18,7 +18,7 @@ Welcome to CleanArch Application! This application its an example of an clean ar
 - It's running on port 50051
 - Execute the command [evans -r repl] to access the application and see the Cr
 - Execute the command [package pb]
-- Execute the command [service OrderService] to 
+- Execute the command [service OrderService]
 
 1. Execute the command [call CreateOrder] to create a new Order
 2. Execute the command [call ListOrder] to list all created Orders
@@ -27,6 +27,5 @@ Welcome to CleanArch Application! This application its an example of an clean ar
 ## Graphqlql
 - It's running on port 8080
 - To access it call http://localhost:8080 and access the playground
-1. 
 
 
